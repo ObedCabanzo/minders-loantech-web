@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.productminds.prestamochi",
+        "sha256_cert_fingerprints": [
+            "E1:C9:7D:62:7E:7D:F1:71:6D:B0:96:40:10:BF:41:B5:D6:4B:14:C2:1D:6A:DC:99:B6:CB:4B:5A:3A:D1:DB:8A"
+        ]
+    }
+}]
