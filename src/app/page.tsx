@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import { FontExamples } from "@/components/FontExamples";
 export default function Home() {
   return (
     <>
