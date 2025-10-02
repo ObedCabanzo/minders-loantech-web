@@ -1,4 +1,4 @@
-# Prestamochi - Coming Soon Landing Page
+# Prestamochi - Coming Soon 
 
-**Tamagochi-Style Loan Game** coming soon to iOS and Android!
+Coming soon to iOS and Android!
 
