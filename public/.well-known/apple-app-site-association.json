@@ -2,8 +2,13 @@
   "applinks": {
     "details": [
       {
-        "appID": "8PKW376PW7.com.productminds.prestamochi",
-        "paths": ["/*"]
+        "appIDs": ["8PKW376PW7.com.productminds.prestamochi"],
+        "components": [
+          {
+            "/": "/app/*",
+            "comment": "Matches any URL with a path that starts with /app/."
+          }
+        ]
       }
     ]
   }
