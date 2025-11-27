@@ -1,14 +1,24 @@
-[{
+[
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-        "namespace": "android_app",
-        "package_name": "com.productminds.prestamochi",
-        "sha256_cert_fingerprints": [
-            "5E:67:42:83:E9:F9:16:57:86:9C:03:90:77:85:C3:7B:BD:0D:CB:DA:92:FF:6F:ED:DE:00:D9:6E:7A:01:E4:D6",
-            "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
-        ]
+      "namespace": "android_app",
+      "package_name": "com.productminds.prestamochi",
+      "sha256_cert_fingerprints": [
+        "5E:67:42:83:E9:F9:16:57:86:9C:03:90:77:85:C3:7B:BD:0D:CB:DA:92:FF:6F:ED:DE:00:D9:6E:7A:01:E4:D6"
+      ]
     },
-    "include": [
-        "https://prestamochi.minders.app/app/*"
-    ]
-}]
+    "include": ["https://prestamochi.minders.app/app/*"]
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.productminds.prestamochi",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    },
+    "include": ["https://prestamochi.minders.app/app/*"]
+  }
+]
